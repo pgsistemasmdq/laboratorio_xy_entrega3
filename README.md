@@ -51,4 +51,4 @@ Cada vez que interactúas con el sistema, se asegura que los datos en el **Local
 ## 📁 Cómo usar el proyecto
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/pgsistemasmdq/laboratorio_xy_entrega3.git
